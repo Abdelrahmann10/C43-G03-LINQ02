@@ -1,0 +1,4 @@
+D:\.Net\Route\LINQ\LINQ2-Demo\obj\Debug\net8.0\LINQ2-Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Route\LINQ\LINQ2-Demo\obj\Debug\net8.0\LINQ2-Demo.AssemblyInfoInputs.cache
+D:\.Net\Route\LINQ\LINQ2-Demo\obj\Debug\net8.0\LINQ2-Demo.AssemblyInfo.cs
+D:\.Net\Route\LINQ\LINQ2-Demo\obj\Debug\net8.0\LINQ2-Demo.csproj.CoreCompileInputs.cache
