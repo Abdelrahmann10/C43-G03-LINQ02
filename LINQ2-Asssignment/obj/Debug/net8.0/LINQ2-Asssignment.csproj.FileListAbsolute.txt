@@ -1,0 +1,14 @@
+D:\.Net\Route\LINQ\LINQ2-Asssignment\obj\Debug\net8.0\LINQ2-Asssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Route\LINQ\LINQ2-Asssignment\obj\Debug\net8.0\LINQ2-Asssignment.AssemblyInfoInputs.cache
+D:\.Net\Route\LINQ\LINQ2-Asssignment\obj\Debug\net8.0\LINQ2-Asssignment.AssemblyInfo.cs
+D:\.Net\Route\LINQ\LINQ2-Asssignment\obj\Debug\net8.0\LINQ2-Asssignment.csproj.CoreCompileInputs.cache
+D:\.Net\Route\LINQ\LINQ2-Asssignment\bin\Debug\net8.0\LINQ2-Asssignment.exe
+D:\.Net\Route\LINQ\LINQ2-Asssignment\bin\Debug\net8.0\LINQ2-Asssignment.deps.json
+D:\.Net\Route\LINQ\LINQ2-Asssignment\bin\Debug\net8.0\LINQ2-Asssignment.runtimeconfig.json
+D:\.Net\Route\LINQ\LINQ2-Asssignment\bin\Debug\net8.0\LINQ2-Asssignment.dll
+D:\.Net\Route\LINQ\LINQ2-Asssignment\bin\Debug\net8.0\LINQ2-Asssignment.pdb
+D:\.Net\Route\LINQ\LINQ2-Asssignment\obj\Debug\net8.0\LINQ2-Asssignment.dll
+D:\.Net\Route\LINQ\LINQ2-Asssignment\obj\Debug\net8.0\refint\LINQ2-Asssignment.dll
+D:\.Net\Route\LINQ\LINQ2-Asssignment\obj\Debug\net8.0\LINQ2-Asssignment.pdb
+D:\.Net\Route\LINQ\LINQ2-Asssignment\obj\Debug\net8.0\LINQ2-Asssignment.genruntimeconfig.cache
+D:\.Net\Route\LINQ\LINQ2-Asssignment\obj\Debug\net8.0\ref\LINQ2-Asssignment.dll
